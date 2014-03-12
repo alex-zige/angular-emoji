@@ -1,4 +1,4 @@
 angular-emoji
 =============
 
-A simple angular directive for emoji :::dance:
+A simple angular directive for emoji :rocket: :boom:
